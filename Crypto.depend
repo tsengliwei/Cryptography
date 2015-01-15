@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1420952776 source:c:\users\kevin\onedrive\projects\coding\c3\project2\c++\crypto\main.cpp
+	<iostream>
+	"english_list.h"
+
+1420953391 source:c:\users\kevin\onedrive\projects\coding\c3\project2\c++\crypto\english_list.cpp
+	<cstring>
+	"english_list.h"
+
+1420953442 c:\users\kevin\onedrive\projects\coding\c3\project2\c++\crypto\english_list.h
+	<vector>
+	<fstream>
+	<string>
+
